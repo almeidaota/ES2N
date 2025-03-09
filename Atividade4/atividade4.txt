@@ -1,0 +1,16 @@
+Situação Atual e Problemas:
+
+    O controle das salas de reunião é feito manualmente em planilhas do Excel, o que torna o processo trabalhoso e sujeito a erros.
+    Realocações de reuniões exigem ajustes manuais frequentes.
+    Funcionários dependem da secretária para consultar a disponibilidade das salas.
+
+Proposta de Solução:
+Criar um sistema online para agendamento de salas, permitindo que os funcionários reservem, consultem a disponibilidade e realoquem reuniões de forma simples e rápida.
+
+Requisitos Funcionais:
+
+    Reserva e cancelamento de salas em tempo real.
+    Visualização da disponibilidade em formato de calendário.
+    Notificações automáticas para os participantes.
+    Gestão de usuários com permissões de acesso.
+    Relatórios e histórico de reuniões realizadas.
